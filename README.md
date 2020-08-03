@@ -5,7 +5,6 @@
 <a href="#"><img src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics"></a>
 </p>
 
-[![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-orange)](https://github.com/Emon-ProCoder7)
 
 # My Build Directory Automation 
 
