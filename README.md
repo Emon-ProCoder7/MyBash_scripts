@@ -1,4 +1,4 @@
-![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
+[<img title="linux" alt="linux" width="77px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />](https://github.com/Emon-ProCoder7?tab=repositories&q=&type=&language=shell)
 
 <p align='right'> 
 
