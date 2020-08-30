@@ -41,6 +41,10 @@ As a data scientist in the HR department of a large IT company, I need to extrac
 
 Each file is comma-delimited in the format **COUNTRY,CITY,JOBTITLE,SALARY** such as **Estonia,Tallinn,Javascript Developer,118286**
 
+<br>
+<p align="center"><img width = 507px src = "hr.gif"/></p>
+<br>
+
 - This script focused to extract the information needed. Depending on the task at hand, it may be needed to go back and extract data for a different city. Therefore, my script will need to take in a city (an argument) as a variable, filter all the files by this city and output to a new CSV with the **city name**. This file can then form part of my analytics work.
 
 
