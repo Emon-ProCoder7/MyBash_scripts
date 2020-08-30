@@ -9,7 +9,11 @@
 
 <h1 align = 'center'>Extracting Data From Files</h1>
 
- -  As a data scientist for a climate research organization, I want to update some models. Where I need to extract temperature data for 3 regions being monitored. Unfortunately the temperature reading devices are quite old and can only be configured to dump data each day into a folder called /temps on the server. Each file contains the daily temperature for each region.
+ -  As a data scientist for a climate research organization, I want to update some models. Where I need to extract temperature data for 3 regions being monitored. Unfortunately the temperature reading devices are quite old and can only be configured to dump data each day into a folder called `/temps` on the server. Each file contains the daily temperature for each region. I've then stored these variables in an array, calculated the **average temperature** of the regions and **append** this to the array.
+
+For example, for temperatures of 60 and 70, the array should have 60, 70, and 65 as its elements.
+
+
 
 👈🏻 Click Logo [<img align="left" alt="Bash" width="47px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/Emon-ProCoder7/MyBash_scripts/blob/master/temperature.sh)
 
