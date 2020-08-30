@@ -7,4 +7,4 @@ temp_c=$(cat temps/region_C)
 
 
 # Printing out the three variables
-echo "The three temperatures were $temp_A, $temp_B, and $temp_C"
+echo "The three temperatures were $temp_a, $temp_b, and $temp_c"
