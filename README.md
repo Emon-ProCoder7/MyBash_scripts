@@ -26,7 +26,7 @@ The manager wants that recent work in the organization has meant that tree-based
 <br><br><br>
 
 
-<h1 align = 'center'>Schedule Command Run</h1>
+<h1 align = 'center'>Schedule Script to Run</h1>
 
 As a data scientist managing an end-to-end machine learning environment in the cloud, I have created some great Bash scripts but it is becoming tedious to have to run these scripts every morning and afternoon. I have created cronjobs that can greatly assist here!
 
