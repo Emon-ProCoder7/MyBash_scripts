@@ -27,6 +27,21 @@ The manager wants that recent work in the organization has meant that tree-based
 
 
 
+<h1 align = 'center'>Array Summation Script</h1>
+
+A common programming task is obtaining the sum of an array of numbers. I've Created a Bash function that will take in an array of numbers and return its sum. An array of numbers  used for a test of the function would be the daily sales in an organization this week (in thousands):
+
+- 14 12 23.5 16 19.34 which should sum to 84.84
+
+
+👈🏻 Click Logo [<img align="left" alt="Bash" width="47px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/Emon-ProCoder7/MyBash_scripts/blob/master/array_summation.sh)
+
+
+<br><br><br>
+
+
+
+
 
 <h1 align = 'center'>Extracting Data From Files</h1>
 
