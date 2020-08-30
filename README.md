@@ -26,6 +26,23 @@ The manager wants that recent work in the organization has meant that tree-based
 <br><br><br>
 
 
+<h1 align = 'center'>Schedule Command Run</h1>
+
+As a data scientist managing an end-to-end machine learning environment in the cloud, I have created some great Bash scripts but it is becoming tedious to have to run these scripts every morning and afternoon. I have created cronjobs that can greatly assist here!
+
+- Creating a schedule for 30 minutes past 2am every day.
+- Creating a schedule for every 15, 30 and 45 minutes past the hour.
+- Creating a schedule for 11.30pm on Sunday evening, every week.
+
+
+👈🏻 Click Logo [<img align="left" alt="Bash" width="47px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://github.com/Emon-ProCoder7/MyBash_scripts/blob/master/crontab)
+
+
+
+
+<br><br><br>
+
+
 
 <h1 align = 'center'>Array Summation Script</h1>
 
@@ -90,5 +107,14 @@ Each file is comma-delimited in the format **COUNTRY,CITY,JOBTITLE,SALARY** such
 
 
 <br><br><br>
+
+
+
+
+
+
+
+
+
 
 
