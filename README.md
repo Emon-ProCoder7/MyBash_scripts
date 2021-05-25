@@ -10,7 +10,7 @@
 
 <h1 align = 'center'>Moving Machine Learning Model Results</h1>
 
-As a data scientist in charge of analyzing some machine learning model results, The production environment moves files into a folder called `model_out/` and names them model_RXX.csv where XX is a random number related to which experiment was run. Each file has the following structure (example):
+As a data scientist in charge of analyzing some machine learning model results, The production environment moves files into a folder called `model_out/` and names them model_RXX.csv where XX is a random number related to which experiment was run. Each file has the following structure (example):-
 
 <pre>
  Model Name, Accuracy, CV, Model Duration (s)
